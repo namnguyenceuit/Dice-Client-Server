@@ -1,0 +1,10 @@
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\bin\Debug\DiceServer.exe.config
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\bin\Debug\DiceServer.exe
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\bin\Debug\DiceServer.pdb
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\obj\Debug\DiceServer.csprojResolveAssemblyReference.cache
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\obj\Debug\DiceServer.DiceServer.resources
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\obj\Debug\DiceServer.Properties.Resources.resources
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\obj\Debug\DiceServer.csproj.GenerateResource.Cache
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\obj\Debug\DiceServer.csproj.CoreCompileInputs.cache
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\obj\Debug\DiceServer.exe
+D:\Study\Basic Network Programming\Practise\LAB\DiceServer\DiceServer\obj\Debug\DiceServer.pdb
